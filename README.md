@@ -1,2 +1,2 @@
 # Java-Basics
-Software University Programming Basics with Java
+Software University - Programming Basics with Java
